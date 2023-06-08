@@ -20,4 +20,4 @@ to run on your local machine
 
 ->for to run  frontend use "npm run dev" in cmd
 
-->to run backend use "npm index" or "nodemon" in cmd
+->to run backend use "node index" or "nodemon" in cmd
